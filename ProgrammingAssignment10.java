@@ -1,10 +1,3 @@
-/*
-Yazan Hajsaid
-Jiang Li
-CSC 222
-Programming Assignment 10
- */
-
 //import java utility and IO
 import java.util.*;
 import java.io.*;
